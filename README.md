@@ -32,16 +32,10 @@ Before using the scripts in this repository, ensure you have the following insta
    git clone https://github.com/sankari24/Data_Cleaning_in_Mysql.git
    
    cd Data_Cleaning_in_Mysql
+
+2. **import data to mysql**
+     Ensure to import your data layoff.csv file to your mysql. For this instructions are given in DataCleaning.sql file   
    
-
-3. **Set Up Your Database**
-
-   Import the provided sample data into your MySQL database using the included SQL dump file.
-
-
-   mysql -u username -p database_name < sample_data.sql
-   
-
 4. **Configure MySQL**
 
    Ensure your MySQL server is running and accessible. Update the connection settings in your MySQL client if necessary.
