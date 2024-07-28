@@ -30,10 +30,11 @@ Before using the scripts in this repository, ensure you have the following insta
 
 
    git clone https://github.com/sankari24/Data_Cleaning_in_Mysql.git
+   
    cd Data_Cleaning_in_Mysql
    
 
-2. **Set Up Your Database**
+3. **Set Up Your Database**
 
    Import the provided sample data into your MySQL database using the included SQL dump file.
 
@@ -41,7 +42,7 @@ Before using the scripts in this repository, ensure you have the following insta
    mysql -u username -p database_name < sample_data.sql
    
 
-3. **Configure MySQL**
+4. **Configure MySQL**
 
    Ensure your MySQL server is running and accessible. Update the connection settings in your MySQL client if necessary.
 
@@ -84,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please open an issue in this repository or contact me at [your-email@example.com].
+For questions or suggestions, please open an issue in this repository or contact me at sivasankarisiva2003@gmail.com.
 
 ---
 
